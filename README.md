@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to work remotely on **wordpress projects**
+- 👯 I’m looking to work remotely on **wordpress projects.**
 
-- 🤝 I’m looking for help with **Next.js medusa**
+- 🤝 I’m looking for help with **Next.js , medusa**
 
 - 👨‍💻 All of my projects are available at [https://Khaas.net](https://Khaas.net)
 
