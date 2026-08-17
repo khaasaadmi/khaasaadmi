@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ojas Gangwal</h1>
-<h3 align="center">A creative wordpress developer with 5+ years of experience.</h3>
+<h3 align="center">A creative react developer with 5+ years of experience.</h3>
 
 - 🔭 I’m currently working on **Freelancing web development**
 
